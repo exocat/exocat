@@ -1,11 +1,13 @@
-- 👋 Hi, I’m @exocat
-- 👀 I’m interested in doing codes and stuff
-- 🌱 I’m currently learning Visual Basics
-- 💞️ I’m looking to collaborate on nothing so far, just going to focus in one to two languages
-- 📫 How to reach me instagram: @haya.gae
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: i'm currently learning as the top 1 student of our batch ICT strand
-<!---
-exocat/exocat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**Hi, I'm Justine! 👋**
+* I'm a Computer Science student, major in Software Engineering, passionate about coding, we bdevelopment, and designs. I enjoy building projects that is user friendly, eye-pleasing, prioritizing user experience, and clean and understable codes.
+
+* 🎮 I love playing volleyball, graphic designing, creating publication materials, and designing websites.
+* ☕️ Fueled by late-night coding session with hot coffee ft. relaxing music.
+
+**Connect With Me**
+* 📫 Email: justineobosa.educ@gmail.com
+* 🌐 GitHub: github.com/exocat
+* 🔗 LinkedIn: linkedin.com/in/justine-obosa
+* 📁 Portfolio:
+
+* I am still have a lot of learnings to do. But learning with other people with the same aspiration is more better. 
